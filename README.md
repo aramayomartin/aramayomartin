@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=aramayomartin&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</p>
+
 <!--
 **aramayomartin/aramayomartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,5 @@ Here are some ideas to get you started:
 - - 👨‍💼 https://www.linkedin.com/in/aramayomartin/
 - - 📧 martinaramayom@gmail.com
 - - 📱 +54-387-5327673
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aramayomartin&show_icons=true&locale=en&layout=compact" alt="aramayomartin" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aramayomartin&label=Profile%20views&color=0e75b6&style=flat" alt="aramayomartin" /> </p>
