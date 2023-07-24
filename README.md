@@ -7,8 +7,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Muni Tienda
-- 🌱 I’m currently learning PHP and good code practices in React with Typescript.
+- 🔭 I’m currently working on Lazo
+- 🌱 I’m currently learning NestJs and good code practices in React with Typescript.
 - 👯 I’m looking to collaborate on challenging projects.
 - 🤔 I’m looking for help with time management 🤓
 - 💬 Ask me about code, basket or another interesting thing.
